@@ -1,0 +1,13 @@
+name: FUEconomy
+main: me.king.main.Main
+author: King_Amun_Ra
+version: 1.0
+description: Fresh Unviverse Economy system
+
+commands:
+    econ:
+        usage: /<command>
+        description: Vanish yourself!
+    bal:
+        usage: /<command>
+        description: Vanish yourself!
