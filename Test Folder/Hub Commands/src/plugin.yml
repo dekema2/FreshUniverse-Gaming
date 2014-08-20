@@ -1,0 +1,18 @@
+name: Hub
+version: 1.0
+author: King_Amun_Ra
+main: me.king.main.Main
+
+commands:
+    hub:
+        usage: /<command>
+        aliases: [universe]
+        description: Go to the hub!!
+    teleport:
+        usage: /<command>
+        aliases: [tp]
+        description: Teleport!
+    tpcords:
+        usage: /<command>
+        aliases: [tppos]
+        description: Teleport to cords!!
